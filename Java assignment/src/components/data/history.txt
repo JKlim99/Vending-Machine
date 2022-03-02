@@ -1,0 +1,22 @@
+Date time:02-04-2020 11:01:51 | Selected drinks: coffee | Paid: RM5.0
+Date time:02-04-2020 11:01:54 | Selected drinks: coffee | Paid: RM5.0
+Date time:03-04-2020 17:07:54 | Selected drinks: coffee | Paid: RM5.0
+Date time:03-04-2020 22:02:22 | Selected drinks: tehtarik | Paid: RM2.0
+Date time:04-04-2020 09:05:39 | Selected drinks: coffee | Paid: RM5.0
+Date time:09-04-2020 21:53:36 | Selected drinks: coca cola | Paid: RM2.5
+Date time:09-04-2020 21:58:01 | Selected drinks: coca cola | Paid: RM3.0
+Date time:09-04-2020 22:02:26 | Selected drinks: coke | Paid: RM2.0
+Date time:09-04-2020 22:10:07 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:10:14 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:10:55 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:13:29 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:14:37 | Selected drinks: coke | Paid: RM5.0
+Date time:09-04-2020 22:14:43 | Selected drinks: coke | Paid: RM5.0
+Date time:09-04-2020 22:15:28 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:17:27 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:18:24 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:25:30 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:26:20 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:27:10 | Selected drinks: coke | Paid: RM10.0
+Date time:09-04-2020 22:27:48 | Selected drinks: coke | Paid: RM5.0
+Date time:10-04-2020 00:34:32 | Selected drinks: Coca cola | Paid: RM2.0
